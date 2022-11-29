@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.exe
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.deps.json
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.runtimeconfig.json
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.dll
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\bin\Debug\net7.0\Example003_Sum.pdb
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.dll
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\refint\Example003_Sum.dll
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.pdb
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\Example003_Sum.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\repo\Examples\Example003_Sum\obj\Debug\net7.0\ref\Example003_Sum.dll
