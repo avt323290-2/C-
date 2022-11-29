@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\bin\Debug\net7.0\Ex002.exe
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\bin\Debug\net7.0\Ex002.deps.json
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\bin\Debug\net7.0\Ex002.runtimeconfig.json
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\bin\Debug\net7.0\Ex002.dll
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\bin\Debug\net7.0\Ex002.pdb
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.dll
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\refint\Ex002.dll
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.pdb
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\Ex002.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\repo\Examples\Ex002\obj\Debug\net7.0\ref\Ex002.dll
